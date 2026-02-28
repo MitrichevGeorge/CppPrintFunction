@@ -1,5 +1,5 @@
 # CppPrintFunction
-Функци print из python теперь в c++
+Функция print из python теперь в c++
 
 ### Примеры использования:
 ```cpp
